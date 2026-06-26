@@ -1,0 +1,10 @@
+{
+  "id": 142691233,
+  "created_at": "2026-06-26T05:11:31.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["prova", "Pinference"]
+}
